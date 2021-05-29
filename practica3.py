@@ -1,7 +1,6 @@
 import socket
 import base64
 import hashlib
-import sys
 
 #Sockets
 addr = ("10.2.126.2",19876) #Direccion ip y puerto objetivo
