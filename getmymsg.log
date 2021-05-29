@@ -1,0 +1,470 @@
+2021-05-27 23:37:02,228 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 15:44:17,134 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 15:44:34,328 INFO: Inicio de conexión desde 127.0.0.1:5747
+2021-05-28 15:44:53,453 WARNING: Comando (usuario) invalido desde 127.0.0.1:5747
+2021-05-28 15:44:53,453 INFO: Fin de conexión desde 127.0.0.1:5747
+2021-05-28 15:45:36,938 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 15:45:43,989 INFO: Inicio de conexión desde 127.0.0.1:5752
+2021-05-28 15:45:48,630 WARNING: Comando (fabravo.16) invalido desde 127.0.0.1:5752
+2021-05-28 15:45:48,631 INFO: Fin de conexión desde 127.0.0.1:5752
+2021-05-28 15:46:03,661 INFO: Inicio de conexión desde 127.0.0.1:5754
+2021-05-28 15:46:11,101 WARNING: Comando (helloiam) desde 127.0.0.1:5754
+2021-05-28 15:47:02,526 WARNING: Comando (msglen) desde 127.0.0.1:5754
+2021-05-28 15:52:17,934 WARNING: Comando (givememsg) desde 127.0.0.1:5754
+2021-05-28 16:07:55,326 WARNING: Comando (givememsg) desde 127.0.0.1:5754
+2021-05-28 16:08:03,334 WARNING: Comando (givememsg) desde 127.0.0.1:5754
+2021-05-28 16:08:37,526 WARNING: Comando (givememsg) desde 127.0.0.1:5754
+2021-05-28 16:09:25,815 WARNING: Comando (givememsg) desde 127.0.0.1:5754
+2021-05-28 16:09:40,822 WARNING: Comando (givememsg) desde 127.0.0.1:5754
+2021-05-28 16:10:06,246 WARNING: Comando (givememsg) desde 127.0.0.1:5754
+2021-05-28 16:10:52,295 WARNING: Comando (givememsg) desde 127.0.0.1:5754
+2021-05-28 16:11:14,358 WARNING: Comando (givememsg) desde 127.0.0.1:5754
+2021-05-28 16:14:45,191 WARNING: Comando (givememsg) desde 127.0.0.1:5754
+2021-05-28 16:15:18,055 WARNING: Comando (givememsg) desde 127.0.0.1:5754
+2021-05-28 16:15:37,402 INFO: Inicio de conexión desde 127.0.0.1:5848
+2021-05-28 16:15:48,863 WARNING: Comando (helloiam) desde 127.0.0.1:5848
+2021-05-28 16:15:53,526 WARNING: Comando (msglen) desde 127.0.0.1:5848
+2021-05-28 16:16:02,110 WARNING: Comando (givememsg) desde 127.0.0.1:5848
+2021-05-28 16:17:57,238 WARNING: Comando (givememsg) desde 127.0.0.1:5848
+2021-05-28 16:18:16,407 WARNING: Comando (givememsg) desde 127.0.0.1:5848
+2021-05-28 16:18:31,649 INFO: Inicio de conexión desde 127.0.0.1:5855
+2021-05-28 16:18:34,046 WARNING: Comando (helloiam) desde 127.0.0.1:5855
+2021-05-28 16:18:39,038 WARNING: Comando (msglen) desde 127.0.0.1:5855
+2021-05-28 16:18:41,205 WARNING: Comando (givememsg) desde 127.0.0.1:5855
+2021-05-28 16:19:53,110 INFO: Inicio de conexión desde 127.0.0.1:5858
+2021-05-28 16:19:55,175 WARNING: Comando (helloiam) desde 127.0.0.1:5858
+2021-05-28 16:20:00,814 WARNING: Comando (msglen) desde 127.0.0.1:5858
+2021-05-28 16:20:03,998 WARNING: Comando (givememsg) desde 127.0.0.1:5858
+2021-05-28 16:22:23,294 WARNING: Comando (givememsg) desde 127.0.0.1:5858
+2021-05-28 16:22:40,534 WARNING: Comando (givememsg) desde 127.0.0.1:5858
+2021-05-28 16:23:34,302 WARNING: Comando (givememsg) desde 127.0.0.1:5858
+2021-05-28 16:23:50,885 WARNING: Comando (msglen) desde 127.0.0.1:5858
+2021-05-28 20:41:17,234 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 20:43:13,474 INFO: Inicio de conexión desde 127.0.0.1:6399
+2021-05-28 20:43:21,291 WARNING: Comando (helloiam) desde 127.0.0.1:6399
+2021-05-28 20:43:33,170 WARNING: Comando (msglen) desde 127.0.0.1:6399
+2021-05-28 20:43:50,795 WARNING: Comando (helloiam) desde 127.0.0.1:6399
+2021-05-28 20:43:50,795 INFO: NOOK (invalid user name) desde 127.0.0.1:6399
+2021-05-28 20:43:50,796 INFO: Fin de conexión desde 127.0.0.1:6399
+2021-05-28 20:44:39,300 INFO: Inicio de conexión desde 127.0.0.1:6402
+2021-05-28 20:44:55,275 WARNING: Comando (helloiam) desde 127.0.0.1:6402
+2021-05-28 20:44:55,276 INFO: NOOK (invalid user name) desde 127.0.0.1:6402
+2021-05-28 20:44:55,276 INFO: Fin de conexión desde 127.0.0.1:6402
+2021-05-28 20:45:01,949 INFO: Inicio de conexión desde 127.0.0.1:6403
+2021-05-28 20:45:07,333 WARNING: Comando (helloiam) desde 127.0.0.1:6403
+2021-05-28 20:45:18,819 WARNING: Comando (msglen) desde 127.0.0.1:6403
+2021-05-28 20:45:49,770 WARNING: Comando (helloiam) desde 127.0.0.1:6403
+2021-05-28 20:45:55,714 WARNING: Comando (msglen) desde 127.0.0.1:6403
+2021-05-28 20:48:15,763 WARNING: Comando (helloiam) desde 127.0.0.1:6403
+2021-05-28 20:48:22,388 WARNING: Comando (msglen) desde 127.0.0.1:6403
+2021-05-28 20:49:17,467 WARNING: Comando (helloiam) desde 127.0.0.1:6403
+2021-05-28 20:49:17,467 INFO: NOOK (invalid user name) desde 127.0.0.1:6403
+2021-05-28 20:49:17,468 INFO: Fin de conexión desde 127.0.0.1:6403
+2021-05-28 20:52:32,346 INFO: Inicio de conexión desde 127.0.0.1:6417
+2021-05-28 20:52:34,171 WARNING: Comando (helloiam) desde 127.0.0.1:6417
+2021-05-28 20:52:34,171 INFO: NOOK (invalid user name) desde 127.0.0.1:6417
+2021-05-28 20:52:34,172 INFO: Fin de conexión desde 127.0.0.1:6417
+2021-05-28 21:01:05,402 INFO: Inicio de conexión desde 127.0.0.1:6451
+2021-05-28 21:01:29,644 WARNING: Comando (helloiam) desde 127.0.0.1:6451
+2021-05-28 21:01:35,653 WARNING: Comando (msglen) desde 127.0.0.1:6451
+2021-05-28 21:01:40,860 WARNING: Comando (helloiam) desde 127.0.0.1:6451
+2021-05-28 21:01:40,861 INFO: NOOK (invalid user name) desde 127.0.0.1:6451
+2021-05-28 21:01:40,861 INFO: Fin de conexión desde 127.0.0.1:6451
+2021-05-28 21:40:00,460 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 21:40:06,386 INFO: Inicio de conexión desde 127.0.0.1:6540
+2021-05-28 21:40:06,388 WARNING: Comando (None) invalido desde 127.0.0.1:6540
+2021-05-28 21:40:06,388 INFO: Fin de conexión desde 127.0.0.1:6540
+2021-05-28 21:40:57,908 INFO: Inicio de conexión desde 127.0.0.1:6544
+2021-05-28 21:41:06,054 WARNING: Comando (helloiam) desde 127.0.0.1:6544
+2021-05-28 21:41:53,659 WARNING: Comando (None) invalido desde 127.0.0.1:6544
+2021-05-28 21:41:53,660 INFO: Fin de conexión desde 127.0.0.1:6544
+2021-05-28 21:42:04,196 INFO: Inicio de conexión desde 127.0.0.1:6545
+2021-05-28 21:42:08,549 WARNING: Comando (helloiam) desde 127.0.0.1:6545
+2021-05-28 21:44:37,804 INFO: Inicio de conexión desde 127.0.0.1:6552
+2021-05-28 21:44:43,517 WARNING: Comando (helloiam) desde 127.0.0.1:6552
+2021-05-28 21:45:05,519 INFO: Fin de conexión desde 127.0.0.1:6552
+2021-05-28 21:45:15,957 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 21:45:45,442 INFO: Inicio de conexión desde 127.0.0.1:6556
+2021-05-28 21:45:54,317 WARNING: Comando (helloiam) desde 127.0.0.1:6556
+2021-05-28 21:46:24,320 INFO: Fin de conexión desde 127.0.0.1:6556
+2021-05-28 21:47:12,084 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 21:47:17,738 INFO: Inicio de conexión desde 127.0.0.1:6560
+2021-05-28 21:47:21,934 WARNING: Comando (helloiam) desde 127.0.0.1:6560
+2021-05-28 21:47:49,644 WARNING: Comando (None) invalido desde 127.0.0.1:6560
+2021-05-28 21:47:49,645 INFO: Fin de conexión desde 127.0.0.1:6560
+2021-05-28 21:47:54,283 INFO: Inicio de conexión desde 127.0.0.1:6561
+2021-05-28 21:47:59,230 WARNING: Comando (helloiam) desde 127.0.0.1:6561
+2021-05-28 21:48:14,518 WARNING: Comando (helloiam) desde 127.0.0.1:6561
+2021-05-28 21:48:14,518 INFO: NOOK (invalid user name) desde 127.0.0.1:6561
+2021-05-28 21:48:14,519 INFO: Fin de conexión desde 127.0.0.1:6561
+2021-05-28 21:48:45,115 INFO: Inicio de conexión desde 127.0.0.1:6565
+2021-05-28 21:48:49,558 WARNING: Comando (helloiam) desde 127.0.0.1:6565
+2021-05-28 21:49:14,598 WARNING: Comando (helloiam) desde 127.0.0.1:6565
+2021-05-28 21:49:14,599 INFO: NOOK (invalid user name) desde 127.0.0.1:6565
+2021-05-28 21:49:14,599 INFO: Fin de conexión desde 127.0.0.1:6565
+2021-05-28 21:49:59,819 INFO: Inicio de conexión desde 127.0.0.1:6566
+2021-05-28 21:50:03,503 WARNING: Comando (helloiam) desde 127.0.0.1:6566
+2021-05-28 22:02:09,573 WARNING: Comando (None) invalido desde 127.0.0.1:6566
+2021-05-28 22:02:09,574 INFO: Fin de conexión desde 127.0.0.1:6566
+2021-05-28 22:02:19,502 INFO: Inicio de conexión desde 127.0.0.1:6799
+2021-05-28 22:02:26,895 WARNING: Comando (helloiam) desde 127.0.0.1:6799
+2021-05-28 22:02:26,901 WARNING: Comando (None) invalido desde 127.0.0.1:6799
+2021-05-28 22:02:26,901 INFO: Fin de conexión desde 127.0.0.1:6799
+2021-05-28 22:02:57,144 INFO: Inicio de conexión desde 127.0.0.1:6804
+2021-05-28 22:03:01,215 WARNING: Comando (helloiam) desde 127.0.0.1:6804
+2021-05-28 22:03:01,221 WARNING: Comando (None) invalido desde 127.0.0.1:6804
+2021-05-28 22:03:01,222 INFO: Fin de conexión desde 127.0.0.1:6804
+2021-05-28 22:03:24,804 INFO: Inicio de conexión desde 127.0.0.1:6810
+2021-05-28 22:03:29,223 WARNING: Comando (helloiam) desde 127.0.0.1:6810
+2021-05-28 22:03:29,224 INFO: NOOK (invalid user name) desde 127.0.0.1:6810
+2021-05-28 22:03:29,224 INFO: Fin de conexión desde 127.0.0.1:6810
+2021-05-28 22:04:40,619 INFO: Inicio de conexión desde 127.0.0.1:6870
+2021-05-28 22:04:45,817 WARNING: Comando (helloiam) desde 127.0.0.1:6870
+2021-05-28 22:10:37,286 INFO: Inicio de conexión desde 127.0.0.1:7003
+2021-05-28 22:10:40,896 WARNING: Comando (helloiam) desde 127.0.0.1:7003
+2021-05-28 22:13:45,478 WARNING: Comando (None) invalido desde 127.0.0.1:7003
+2021-05-28 22:13:45,478 INFO: Fin de conexión desde 127.0.0.1:7003
+2021-05-28 22:13:46,947 INFO: Inicio de conexión desde 127.0.0.1:7024
+2021-05-28 22:13:51,119 WARNING: Comando (helloiam) desde 127.0.0.1:7024
+2021-05-28 22:13:51,124 WARNING: Comando (None) invalido desde 127.0.0.1:7024
+2021-05-28 22:13:51,125 INFO: Fin de conexión desde 127.0.0.1:7024
+2021-05-28 22:15:32,695 INFO: Inicio de conexión desde 127.0.0.1:7035
+2021-05-28 22:15:34,144 WARNING: Comando (helloiam) desde 127.0.0.1:7035
+2021-05-28 22:15:34,145 INFO: NOOK (invalid user name) desde 127.0.0.1:7035
+2021-05-28 22:15:34,145 INFO: Fin de conexión desde 127.0.0.1:7035
+2021-05-28 22:16:29,161 INFO: Inicio de conexión desde 127.0.0.1:7042
+2021-05-28 22:16:32,935 WARNING: Comando (helloiam) desde 127.0.0.1:7042
+2021-05-28 22:16:32,937 WARNING: Comando (msglen) desde 127.0.0.1:7042
+2021-05-28 22:16:32,942 WARNING: Comando (None) invalido desde 127.0.0.1:7042
+2021-05-28 22:16:32,942 INFO: Fin de conexión desde 127.0.0.1:7042
+2021-05-28 22:26:22,888 INFO: Inicio de conexión desde 127.0.0.1:7115
+2021-05-28 22:26:22,889 WARNING: Comando (None) invalido desde 127.0.0.1:7115
+2021-05-28 22:26:22,889 INFO: Fin de conexión desde 127.0.0.1:7115
+2021-05-28 22:29:02,333 INFO: Inicio de conexión desde 127.0.0.1:7120
+2021-05-28 22:29:02,335 WARNING: Comando (None) invalido desde 127.0.0.1:7120
+2021-05-28 22:29:02,335 INFO: Fin de conexión desde 127.0.0.1:7120
+2021-05-28 22:29:25,885 INFO: Inicio de conexión desde 127.0.0.1:7124
+2021-05-28 22:29:30,912 WARNING: Comando (helloiam) desde 127.0.0.1:7124
+2021-05-28 22:29:30,914 WARNING: Comando (msglen) desde 127.0.0.1:7124
+2021-05-28 22:29:30,916 WARNING: Comando (givememsg) desde 127.0.0.1:7124
+2021-05-28 22:31:20,556 INFO: Inicio de conexión desde 127.0.0.1:7133
+2021-05-28 22:31:24,008 WARNING: Comando (helloiam) desde 127.0.0.1:7133
+2021-05-28 22:31:24,010 WARNING: Comando (msglen) desde 127.0.0.1:7133
+2021-05-28 22:31:24,011 WARNING: Comando (givememsg) desde 127.0.0.1:7133
+2021-05-28 22:34:37,147 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 22:34:44,974 INFO: Inicio de conexión desde 127.0.0.1:7143
+2021-05-28 22:34:48,832 WARNING: Comando (helloiam) desde 127.0.0.1:7143
+2021-05-28 22:34:48,833 WARNING: Comando (msglen) desde 127.0.0.1:7143
+2021-05-28 22:34:48,834 WARNING: Comando (givememsg) desde 127.0.0.1:7143
+2021-05-28 22:35:14,137 INFO: Inicio de conexión desde 127.0.0.1:7145
+2021-05-28 22:35:17,353 WARNING: Comando (helloiam) desde 127.0.0.1:7145
+2021-05-28 22:35:17,355 WARNING: Comando (msglen) desde 127.0.0.1:7145
+2021-05-28 22:35:17,356 WARNING: Comando (givememsg) desde 127.0.0.1:7145
+2021-05-28 22:35:46,909 INFO: Inicio de conexión desde 127.0.0.1:7150
+2021-05-28 22:35:50,610 WARNING: Comando (helloiam) desde 127.0.0.1:7150
+2021-05-28 22:35:50,612 WARNING: Comando (msglen) desde 127.0.0.1:7150
+2021-05-28 22:35:50,614 WARNING: Comando (givememsg) desde 127.0.0.1:7150
+2021-05-28 22:37:40,299 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 22:37:48,330 INFO: Inicio de conexión desde 127.0.0.1:7157
+2021-05-28 22:37:51,657 WARNING: Comando (helloiam) desde 127.0.0.1:7157
+2021-05-28 22:37:51,659 WARNING: Comando (msglen) desde 127.0.0.1:7157
+2021-05-28 22:37:51,660 WARNING: Comando (givememsg) desde 127.0.0.1:7157
+2021-05-28 22:38:59,177 INFO: Inicio de conexión desde 127.0.0.1:7161
+2021-05-28 22:39:03,081 WARNING: Comando (helloiam) desde 127.0.0.1:7161
+2021-05-28 22:39:03,084 WARNING: Comando (msglen) desde 127.0.0.1:7161
+2021-05-28 22:39:03,085 WARNING: Comando (givememsg) desde 127.0.0.1:7161
+2021-05-28 22:39:46,549 INFO: Inicio de conexión desde 127.0.0.1:7164
+2021-05-28 22:39:50,088 WARNING: Comando (helloiam) desde 127.0.0.1:7164
+2021-05-28 22:39:50,090 WARNING: Comando (msglen) desde 127.0.0.1:7164
+2021-05-28 22:39:50,091 WARNING: Comando (givememsg) desde 127.0.0.1:7164
+2021-05-28 22:40:02,221 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 22:40:06,771 INFO: Inicio de conexión desde 127.0.0.1:7166
+2021-05-28 22:40:10,169 WARNING: Comando (helloiam) desde 127.0.0.1:7166
+2021-05-28 22:40:10,171 WARNING: Comando (msglen) desde 127.0.0.1:7166
+2021-05-28 22:40:10,173 WARNING: Comando (givememsg) desde 127.0.0.1:7166
+2021-05-28 22:56:48,413 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 22:56:56,788 INFO: Inicio de conexión desde 127.0.0.1:7212
+2021-05-28 22:57:05,826 WARNING: Comando (helloiam) desde 127.0.0.1:7212
+2021-05-28 22:57:05,828 WARNING: Comando (msglen) desde 127.0.0.1:7212
+2021-05-28 22:57:05,829 WARNING: Comando (givememsg) desde 127.0.0.1:7212
+2021-05-28 22:57:44,456 INFO: Inicio de conexión desde 127.0.0.1:7214
+2021-05-28 22:57:48,761 WARNING: Comando (helloiam) desde 127.0.0.1:7214
+2021-05-28 22:57:48,763 WARNING: Comando (msglen) desde 127.0.0.1:7214
+2021-05-28 22:57:48,764 WARNING: Comando (givememsg) desde 127.0.0.1:7214
+2021-05-28 22:58:38,432 INFO: Inicio de conexión desde 127.0.0.1:7220
+2021-05-28 22:58:43,506 WARNING: Comando (helloiam) desde 127.0.0.1:7220
+2021-05-28 22:58:43,508 WARNING: Comando (msglen) desde 127.0.0.1:7220
+2021-05-28 22:58:43,509 WARNING: Comando (givememsg) desde 127.0.0.1:7220
+2021-05-28 22:59:35,986 INFO: Inicio de conexión desde 127.0.0.1:7225
+2021-05-28 22:59:40,217 WARNING: Comando (helloiam) desde 127.0.0.1:7225
+2021-05-28 22:59:40,219 WARNING: Comando (msglen) desde 127.0.0.1:7225
+2021-05-28 22:59:40,220 WARNING: Comando (givememsg) desde 127.0.0.1:7225
+2021-05-28 23:03:03,989 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 23:03:11,225 INFO: Inicio de conexión desde 127.0.0.1:7252
+2021-05-28 23:03:15,138 WARNING: Comando (helloiam) desde 127.0.0.1:7252
+2021-05-28 23:03:15,140 WARNING: Comando (msglen) desde 127.0.0.1:7252
+2021-05-28 23:03:15,141 WARNING: Comando (givememsg) desde 127.0.0.1:7252
+2021-05-28 23:04:55,135 INFO: Inicio de conexión desde 127.0.0.1:7262
+2021-05-28 23:04:58,962 WARNING: Comando (helloiam) desde 127.0.0.1:7262
+2021-05-28 23:04:58,964 WARNING: Comando (msglen) desde 127.0.0.1:7262
+2021-05-28 23:04:58,965 WARNING: Comando (givememsg) desde 127.0.0.1:7262
+2021-05-28 23:11:14,999 INFO: Inicio de conexión desde 127.0.0.1:7285
+2021-05-28 23:11:19,602 WARNING: Comando (helloiam) desde 127.0.0.1:7285
+2021-05-28 23:11:19,604 WARNING: Comando (msglen) desde 127.0.0.1:7285
+2021-05-28 23:11:19,605 WARNING: Comando (givememsg) desde 127.0.0.1:7285
+2021-05-28 23:12:40,265 INFO: Inicio de conexión desde 127.0.0.1:7287
+2021-05-28 23:12:44,690 WARNING: Comando (helloiam) desde 127.0.0.1:7287
+2021-05-28 23:12:44,692 WARNING: Comando (msglen) desde 127.0.0.1:7287
+2021-05-28 23:12:44,693 WARNING: Comando (givememsg) desde 127.0.0.1:7287
+2021-05-28 23:13:15,118 INFO: Inicio de conexión desde 127.0.0.1:7292
+2021-05-28 23:13:17,946 WARNING: Comando (helloiam) desde 127.0.0.1:7292
+2021-05-28 23:13:17,948 WARNING: Comando (msglen) desde 127.0.0.1:7292
+2021-05-28 23:13:17,949 WARNING: Comando (givememsg) desde 127.0.0.1:7292
+2021-05-28 23:21:01,504 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 23:21:18,350 INFO: Inicio de conexión desde 127.0.0.1:7360
+2021-05-28 23:21:28,194 WARNING: Comando (helloiam) desde 127.0.0.1:7360
+2021-05-28 23:21:28,196 WARNING: Comando (msglen) desde 127.0.0.1:7360
+2021-05-28 23:21:28,197 WARNING: Comando (givememsg) desde 127.0.0.1:7360
+2021-05-28 23:25:03,959 INFO: Inicio de conexión desde 127.0.0.1:7376
+2021-05-28 23:25:07,643 WARNING: Comando (helloiam) desde 127.0.0.1:7376
+2021-05-28 23:25:07,645 WARNING: Comando (msglen) desde 127.0.0.1:7376
+2021-05-28 23:25:07,646 WARNING: Comando (givememsg) desde 127.0.0.1:7376
+2021-05-28 23:25:12,300 INFO: Inicio de conexión desde 127.0.0.1:7378
+2021-05-28 23:25:14,059 WARNING: Comando (helloiam) desde 127.0.0.1:7378
+2021-05-28 23:25:14,059 INFO: NOOK (invalid user name) desde 127.0.0.1:7378
+2021-05-28 23:25:14,059 INFO: Fin de conexión desde 127.0.0.1:7378
+2021-05-28 23:25:26,975 INFO: Inicio de conexión desde 127.0.0.1:7381
+2021-05-28 23:25:35,498 WARNING: Comando (helloiam) desde 127.0.0.1:7381
+2021-05-28 23:25:35,501 WARNING: Comando (msglen) desde 127.0.0.1:7381
+2021-05-28 23:25:35,502 WARNING: Comando (givememsg) desde 127.0.0.1:7381
+2021-05-28 23:30:58,225 INFO: Inicio de conexión desde 127.0.0.1:7411
+2021-05-28 23:31:01,379 WARNING: Comando (helloiam) desde 127.0.0.1:7411
+2021-05-28 23:31:01,381 WARNING: Comando (msglen) desde 127.0.0.1:7411
+2021-05-28 23:31:01,382 WARNING: Comando (givememsg) desde 127.0.0.1:7411
+2021-05-28 23:31:47,058 INFO: Inicio de conexión desde 127.0.0.1:7419
+2021-05-28 23:31:50,155 WARNING: Comando (helloiam) desde 127.0.0.1:7419
+2021-05-28 23:31:50,157 WARNING: Comando (msglen) desde 127.0.0.1:7419
+2021-05-28 23:31:50,158 WARNING: Comando (givememsg) desde 127.0.0.1:7419
+2021-05-28 23:34:37,487 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 23:34:48,619 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 23:35:44,523 INFO: Inicio de conexión desde 127.0.0.1:7437
+2021-05-28 23:35:48,403 WARNING: Comando (helloiam) desde 127.0.0.1:7437
+2021-05-28 23:35:48,404 WARNING: Comando (msglen) desde 127.0.0.1:7437
+2021-05-28 23:35:48,405 WARNING: Comando (givememsg) desde 127.0.0.1:7437
+2021-05-28 23:36:04,408 INFO: Inicio de conexión desde 127.0.0.1:7440
+2021-05-28 23:36:09,100 WARNING: Comando (helloiam) desde 127.0.0.1:7440
+2021-05-28 23:36:09,102 WARNING: Comando (msglen) desde 127.0.0.1:7440
+2021-05-28 23:36:09,103 WARNING: Comando (givememsg) desde 127.0.0.1:7440
+2021-05-28 23:37:20,335 INFO: Inicio de conexión desde 127.0.0.1:7445
+2021-05-28 23:37:28,707 WARNING: Comando (helloiam) desde 127.0.0.1:7445
+2021-05-28 23:37:28,710 WARNING: Comando (msglen) desde 127.0.0.1:7445
+2021-05-28 23:37:28,715 WARNING: Comando (None) invalido desde 127.0.0.1:7445
+2021-05-28 23:37:28,715 INFO: Fin de conexión desde 127.0.0.1:7445
+2021-05-28 23:40:39,536 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 23:40:48,782 INFO: Inicio de conexión desde 127.0.0.1:7454
+2021-05-28 23:40:52,316 WARNING: Comando (helloiam) desde 127.0.0.1:7454
+2021-05-28 23:40:52,318 WARNING: Comando (msglen) desde 127.0.0.1:7454
+2021-05-28 23:40:52,323 WARNING: Comando (None) invalido desde 127.0.0.1:7454
+2021-05-28 23:40:52,323 INFO: Fin de conexión desde 127.0.0.1:7454
+2021-05-28 23:41:12,463 INFO: Inicio de conexión desde 127.0.0.1:7456
+2021-05-28 23:41:16,507 WARNING: Comando (helloiam) desde 127.0.0.1:7456
+2021-05-28 23:41:16,509 WARNING: Comando (msglen) desde 127.0.0.1:7456
+2021-05-28 23:41:16,510 WARNING: Comando (givememsg) desde 127.0.0.1:7456
+2021-05-28 23:41:54,614 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 23:41:57,795 INFO: Inicio de conexión desde 127.0.0.1:7461
+2021-05-28 23:42:01,356 WARNING: Comando (helloiam) desde 127.0.0.1:7461
+2021-05-28 23:42:01,358 WARNING: Comando (msglen) desde 127.0.0.1:7461
+2021-05-28 23:42:01,359 WARNING: Comando (givememsg) desde 127.0.0.1:7461
+2021-05-28 23:58:40,647 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 23:58:43,913 INFO: Inicio de conexión desde 127.0.0.1:7558
+2021-05-28 23:58:47,324 WARNING: Comando (helloiam) desde 127.0.0.1:7558
+2021-05-28 23:58:47,326 WARNING: Comando (msglen) desde 127.0.0.1:7558
+2021-05-28 23:58:47,331 WARNING: Comando (None) invalido desde 127.0.0.1:7558
+2021-05-28 23:58:47,331 INFO: Fin de conexión desde 127.0.0.1:7558
+2021-05-28 23:59:19,290 INFO: Inicio de conexión desde 127.0.0.1:7559
+2021-05-28 23:59:24,341 WARNING: Comando (helloiam) desde 127.0.0.1:7559
+2021-05-28 23:59:24,342 WARNING: Comando (msglen) desde 127.0.0.1:7559
+2021-05-28 23:59:24,346 WARNING: Comando (None) invalido desde 127.0.0.1:7559
+2021-05-28 23:59:24,346 INFO: Fin de conexión desde 127.0.0.1:7559
+2021-05-28 23:59:52,520 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-28 23:59:55,817 INFO: Inicio de conexión desde 127.0.0.1:7563
+2021-05-28 23:59:59,228 WARNING: Comando (helloiam) desde 127.0.0.1:7563
+2021-05-28 23:59:59,230 WARNING: Comando (msglen) desde 127.0.0.1:7563
+2021-05-28 23:59:59,235 WARNING: Comando (None) invalido desde 127.0.0.1:7563
+2021-05-28 23:59:59,235 INFO: Fin de conexión desde 127.0.0.1:7563
+2021-05-29 00:00:15,128 INFO: Inicio de conexión desde 127.0.0.1:7564
+2021-05-29 00:00:18,469 WARNING: Comando (helloiam) desde 127.0.0.1:7564
+2021-05-29 00:00:18,471 WARNING: Comando (msglen) desde 127.0.0.1:7564
+2021-05-29 00:00:18,476 WARNING: Comando (None) invalido desde 127.0.0.1:7564
+2021-05-29 00:00:18,477 INFO: Fin de conexión desde 127.0.0.1:7564
+2021-05-29 00:00:36,142 INFO: Inicio de conexión desde 127.0.0.1:7565
+2021-05-29 00:00:39,125 WARNING: Comando (helloiam) desde 127.0.0.1:7565
+2021-05-29 00:00:39,127 WARNING: Comando (msglen) desde 127.0.0.1:7565
+2021-05-29 00:00:39,132 WARNING: Comando (None) invalido desde 127.0.0.1:7565
+2021-05-29 00:00:39,133 INFO: Fin de conexión desde 127.0.0.1:7565
+2021-05-29 00:01:02,070 INFO: Inicio de conexión desde 127.0.0.1:7566
+2021-05-29 00:01:05,668 WARNING: Comando (helloiam) desde 127.0.0.1:7566
+2021-05-29 00:01:05,669 WARNING: Comando (msglen) desde 127.0.0.1:7566
+2021-05-29 00:01:05,670 WARNING: Comando (givememsg) desde 127.0.0.1:7566
+2021-05-29 00:01:45,193 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-29 00:01:49,352 INFO: Inicio de conexión desde 127.0.0.1:7570
+2021-05-29 00:01:52,581 WARNING: Comando (helloiam) desde 127.0.0.1:7570
+2021-05-29 00:01:52,583 WARNING: Comando (msglen) desde 127.0.0.1:7570
+2021-05-29 00:01:52,584 WARNING: Comando (givememsg) desde 127.0.0.1:7570
+2021-05-29 00:02:30,465 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-29 00:02:37,312 INFO: Inicio de conexión desde 127.0.0.1:7571
+2021-05-29 00:02:40,773 WARNING: Comando (helloiam) desde 127.0.0.1:7571
+2021-05-29 00:02:40,777 WARNING: Comando (msglen) desde 127.0.0.1:7571
+2021-05-29 00:02:40,778 WARNING: Comando (givememsg) desde 127.0.0.1:7571
+2021-05-29 00:03:10,643 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-29 00:03:16,530 INFO: Inicio de conexión desde 127.0.0.1:7575
+2021-05-29 00:03:20,135 WARNING: Comando (helloiam) desde 127.0.0.1:7575
+2021-05-29 00:03:20,137 WARNING: Comando (msglen) desde 127.0.0.1:7575
+2021-05-29 00:03:20,142 WARNING: Comando (None) invalido desde 127.0.0.1:7575
+2021-05-29 00:03:20,143 INFO: Fin de conexión desde 127.0.0.1:7575
+2021-05-29 00:04:03,184 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-29 00:04:15,833 INFO: Inicio de conexión desde 127.0.0.1:7576
+2021-05-29 00:04:19,366 WARNING: Comando (helloiam) desde 127.0.0.1:7576
+2021-05-29 00:04:19,368 WARNING: Comando (msglen) desde 127.0.0.1:7576
+2021-05-29 00:04:19,370 WARNING: Comando (givememsg) desde 127.0.0.1:7576
+2021-05-29 00:13:16,683 INFO: Inicio de conexión desde 127.0.0.1:7629
+2021-05-29 00:13:20,333 WARNING: Comando (helloiam) desde 127.0.0.1:7629
+2021-05-29 00:13:20,335 WARNING: Comando (msglen) desde 127.0.0.1:7629
+2021-05-29 00:13:20,336 WARNING: Comando (givememsg) desde 127.0.0.1:7629
+2021-05-29 00:13:20,341 WARNING: Comando (None) invalido desde 127.0.0.1:7629
+2021-05-29 00:13:20,342 INFO: Fin de conexión desde 127.0.0.1:7629
+2021-05-29 00:14:25,785 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-29 00:14:58,041 INFO: Inicio de conexión desde 127.0.0.1:7643
+2021-05-29 00:15:01,205 WARNING: Comando (helloiam) desde 127.0.0.1:7643
+2021-05-29 00:15:01,208 WARNING: Comando (msglen) desde 127.0.0.1:7643
+2021-05-29 00:15:01,209 WARNING: Comando (givememsg) desde 127.0.0.1:7643
+2021-05-29 00:15:01,215 WARNING: Comando (None) invalido desde 127.0.0.1:7643
+2021-05-29 00:15:01,215 INFO: Fin de conexión desde 127.0.0.1:7643
+2021-05-29 00:16:17,878 INFO: Inicio de conexión desde 127.0.0.1:7657
+2021-05-29 00:16:21,439 WARNING: Comando (helloiam) desde 127.0.0.1:7657
+2021-05-29 00:16:21,441 WARNING: Comando (msglen) desde 127.0.0.1:7657
+2021-05-29 00:16:21,442 WARNING: Comando (givememsg) desde 127.0.0.1:7657
+2021-05-29 00:16:21,447 WARNING: Comando (None) invalido desde 127.0.0.1:7657
+2021-05-29 00:16:21,448 INFO: Fin de conexión desde 127.0.0.1:7657
+2021-05-29 00:16:40,673 INFO: Inicio de conexión desde 127.0.0.1:7667
+2021-05-29 00:16:43,781 WARNING: Comando (helloiam) desde 127.0.0.1:7667
+2021-05-29 00:16:43,783 WARNING: Comando (msglen) desde 127.0.0.1:7667
+2021-05-29 00:16:43,784 WARNING: Comando (givememsg) desde 127.0.0.1:7667
+2021-05-29 00:16:43,790 WARNING: Comando (None) invalido desde 127.0.0.1:7667
+2021-05-29 00:16:43,790 INFO: Fin de conexión desde 127.0.0.1:7667
+2021-05-29 00:18:38,813 INFO: Inicio de conexión desde 127.0.0.1:7683
+2021-05-29 00:18:42,935 WARNING: Comando (helloiam) desde 127.0.0.1:7683
+2021-05-29 00:18:42,936 WARNING: Comando (msglen) desde 127.0.0.1:7683
+2021-05-29 00:18:42,939 WARNING: Comando (givememsg) desde 127.0.0.1:7683
+2021-05-29 00:18:42,944 WARNING: Comando (None) invalido desde 127.0.0.1:7683
+2021-05-29 00:18:42,944 INFO: Fin de conexión desde 127.0.0.1:7683
+2021-05-29 00:19:01,414 INFO: Inicio de conexión desde 127.0.0.1:7685
+2021-05-29 00:19:04,518 WARNING: Comando (helloiam) desde 127.0.0.1:7685
+2021-05-29 00:19:04,520 WARNING: Comando (msglen) desde 127.0.0.1:7685
+2021-05-29 00:19:04,521 WARNING: Comando (givememsg) desde 127.0.0.1:7685
+2021-05-29 00:19:04,527 WARNING: Comando (None) invalido desde 127.0.0.1:7685
+2021-05-29 00:19:04,527 INFO: Fin de conexión desde 127.0.0.1:7685
+2021-05-29 00:19:38,967 INFO: Inicio de conexión desde 127.0.0.1:7690
+2021-05-29 00:19:42,245 WARNING: Comando (helloiam) desde 127.0.0.1:7690
+2021-05-29 00:19:42,247 WARNING: Comando (msglen) desde 127.0.0.1:7690
+2021-05-29 00:19:42,249 WARNING: Comando (givememsg) desde 127.0.0.1:7690
+2021-05-29 00:19:42,255 WARNING: Comando (None) invalido desde 127.0.0.1:7690
+2021-05-29 00:19:42,255 INFO: Fin de conexión desde 127.0.0.1:7690
+2021-05-29 00:29:03,850 INFO: Inicio de conexión desde 127.0.0.1:8028
+2021-05-29 00:29:09,679 WARNING: Comando (helloiam) desde 127.0.0.1:8028
+2021-05-29 00:29:09,681 WARNING: Comando (msglen) desde 127.0.0.1:8028
+2021-05-29 00:29:09,683 WARNING: Comando (givememsg) desde 127.0.0.1:8028
+2021-05-29 00:31:08,028 WARNING: Comando (None) invalido desde 127.0.0.1:8028
+2021-05-29 00:31:08,029 INFO: Fin de conexión desde 127.0.0.1:8028
+2021-05-29 00:31:14,460 INFO: Inicio de conexión desde 127.0.0.1:8046
+2021-05-29 00:31:17,710 WARNING: Comando (helloiam) desde 127.0.0.1:8046
+2021-05-29 00:31:17,712 WARNING: Comando (msglen) desde 127.0.0.1:8046
+2021-05-29 00:31:17,713 WARNING: Comando (givememsg) desde 127.0.0.1:8046
+2021-05-29 00:31:17,755 WARNING: Comando (None) invalido desde 127.0.0.1:8046
+2021-05-29 00:31:17,755 INFO: Fin de conexión desde 127.0.0.1:8046
+2021-05-29 00:37:49,955 INFO: Inicio de conexión desde 127.0.0.1:8076
+2021-05-29 00:37:53,423 WARNING: Comando (helloiam) desde 127.0.0.1:8076
+2021-05-29 00:37:53,425 WARNING: Comando (msglen) desde 127.0.0.1:8076
+2021-05-29 00:37:53,426 WARNING: Comando (givememsg) desde 127.0.0.1:8076
+2021-05-29 00:37:53,427 WARNING: Comando (b7ee1359f28b98ecc0160abb41930e2a) invalido desde 127.0.0.1:8076
+2021-05-29 00:37:53,428 INFO: Fin de conexión desde 127.0.0.1:8076
+2021-05-29 00:38:50,246 INFO: Inicio de conexión desde 127.0.0.1:8083
+2021-05-29 00:38:53,254 WARNING: Comando (helloiam) desde 127.0.0.1:8083
+2021-05-29 00:38:53,256 WARNING: Comando (msglen) desde 127.0.0.1:8083
+2021-05-29 00:38:53,258 WARNING: Comando (givememsg) desde 127.0.0.1:8083
+2021-05-29 00:38:53,259 WARNING: Comando (b7ee1359f28b98ecc0160abb41930e2a) invalido desde 127.0.0.1:8083
+2021-05-29 00:38:53,259 INFO: Fin de conexión desde 127.0.0.1:8083
+2021-05-29 00:40:44,681 INFO: Inicio de conexión desde 127.0.0.1:8091
+2021-05-29 00:40:49,679 WARNING: Comando (helloiam) desde 127.0.0.1:8091
+2021-05-29 00:40:49,681 WARNING: Comando (msglen) desde 127.0.0.1:8091
+2021-05-29 00:40:49,682 WARNING: Comando (givememsg) desde 127.0.0.1:8091
+2021-05-29 00:40:49,683 WARNING: Comando (chkmsg) desde 127.0.0.1:8091
+2021-05-29 00:40:49,690 WARNING: Comando (None) invalido desde 127.0.0.1:8091
+2021-05-29 00:40:49,690 INFO: Fin de conexión desde 127.0.0.1:8091
+2021-05-29 00:42:20,240 INFO: Inicio de conexión desde 127.0.0.1:8098
+2021-05-29 00:42:23,934 WARNING: Comando (helloiam) desde 127.0.0.1:8098
+2021-05-29 00:42:23,937 WARNING: Comando (msglen) desde 127.0.0.1:8098
+2021-05-29 00:42:23,938 WARNING: Comando (givememsg) desde 127.0.0.1:8098
+2021-05-29 00:42:23,939 WARNING: Comando (chkmsg) desde 127.0.0.1:8098
+2021-05-29 00:42:23,942 WARNING: Comando (bye) desde 127.0.0.1:8098
+2021-05-29 00:42:23,943 INFO: Fin de conexión desde 127.0.0.1:8098
+2021-05-29 00:42:53,821 INFO: Inicio de conexión desde 127.0.0.1:8102
+2021-05-29 00:42:58,574 WARNING: Comando (helloiam) desde 127.0.0.1:8102
+2021-05-29 00:42:58,578 WARNING: Comando (msglen) desde 127.0.0.1:8102
+2021-05-29 00:42:58,579 WARNING: Comando (givememsg) desde 127.0.0.1:8102
+2021-05-29 00:42:58,580 WARNING: Comando (chkmsg) desde 127.0.0.1:8102
+2021-05-29 00:42:58,583 WARNING: Comando (bye) desde 127.0.0.1:8102
+2021-05-29 00:42:58,584 INFO: Fin de conexión desde 127.0.0.1:8102
+2021-05-29 00:48:40,894 INFO: Inicio de conexión desde 127.0.0.1:8123
+2021-05-29 00:48:47,271 WARNING: Comando (helloiam) desde 127.0.0.1:8123
+2021-05-29 00:48:47,271 WARNING: Comando (msglen) desde 127.0.0.1:8123
+2021-05-29 00:48:47,272 WARNING: Comando (givememsg) desde 127.0.0.1:8123
+2021-05-29 00:48:47,273 WARNING: Comando (chkmsg) desde 127.0.0.1:8123
+2021-05-29 00:48:47,274 WARNING: Comando (bye) desde 127.0.0.1:8123
+2021-05-29 00:48:47,275 INFO: Fin de conexión desde 127.0.0.1:8123
+2021-05-29 12:41:13,582 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-29 12:41:22,114 INFO: Inicio de conexión desde 127.0.0.1:4367
+2021-05-29 12:41:25,636 WARNING: Comando (helloiam) desde 127.0.0.1:4367
+2021-05-29 12:41:25,638 WARNING: Comando (msglen) desde 127.0.0.1:4367
+2021-05-29 12:41:25,640 WARNING: Comando (givememsg) desde 127.0.0.1:4367
+2021-05-29 12:41:25,644 WARNING: Comando (chkmsg) desde 127.0.0.1:4367
+2021-05-29 12:41:25,684 WARNING: Comando (bye) desde 127.0.0.1:4367
+2021-05-29 12:41:25,684 INFO: Fin de conexión desde 127.0.0.1:4367
+2021-05-29 12:42:24,357 INFO: Inicio de conexión desde 127.0.0.1:4431
+2021-05-29 12:42:25,478 WARNING: Comando (helloiam) desde 127.0.0.1:4431
+2021-05-29 12:42:25,478 WARNING: Comando (msglen) desde 127.0.0.1:4431
+2021-05-29 12:42:25,478 WARNING: Comando (givememsg) desde 127.0.0.1:4431
+2021-05-29 12:42:25,478 WARNING: Comando (chkmsg) desde 127.0.0.1:4431
+2021-05-29 12:42:25,494 WARNING: Comando (bye) desde 127.0.0.1:4431
+2021-05-29 12:42:25,494 INFO: Fin de conexión desde 127.0.0.1:4431
+2021-05-29 13:07:17,664 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-29 13:07:55,180 INFO: Inicio de conexión desde 127.0.0.1:6039
+2021-05-29 13:07:55,900 WARNING: Comando (helloiam) desde 127.0.0.1:6039
+2021-05-29 13:07:55,900 WARNING: Comando (msglen) desde 127.0.0.1:6039
+2021-05-29 13:07:55,900 WARNING: Comando (givememsg) desde 127.0.0.1:6039
+2021-05-29 13:07:55,900 WARNING: Comando (chkmsg) desde 127.0.0.1:6039
+2021-05-29 13:07:55,900 WARNING: Comando (bye) desde 127.0.0.1:6039
+2021-05-29 13:07:55,900 INFO: Fin de conexión desde 127.0.0.1:6039
+2021-05-29 13:08:49,627 INFO: Inicio de conexión desde 127.0.0.1:6100
+2021-05-29 13:08:51,139 WARNING: Comando (helloiam) desde 127.0.0.1:6100
+2021-05-29 13:08:51,139 WARNING: Comando (msglen) desde 127.0.0.1:6100
+2021-05-29 13:08:51,139 WARNING: Comando (givememsg) desde 127.0.0.1:6100
+2021-05-29 13:08:51,155 WARNING: Comando (chkmsg) desde 127.0.0.1:6100
+2021-05-29 13:08:51,155 WARNING: Comando (bye) desde 127.0.0.1:6100
+2021-05-29 13:08:51,155 INFO: Fin de conexión desde 127.0.0.1:6100
+2021-05-29 14:11:12,189 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-29 14:11:28,466 INFO: Inicio de conexión desde 127.0.0.1:10129
+2021-05-29 14:11:30,810 WARNING: Comando (helloiam) desde 127.0.0.1:10129
+2021-05-29 14:11:30,810 WARNING: Comando (msglen) desde 127.0.0.1:10129
+2021-05-29 14:11:30,810 WARNING: Comando (givememsg) desde 127.0.0.1:10129
+2021-05-29 14:11:30,810 WARNING: Comando (chkmsg) desde 127.0.0.1:10129
+2021-05-29 14:11:30,826 WARNING: Comando (bye) desde 127.0.0.1:10129
+2021-05-29 14:11:30,826 INFO: Fin de conexión desde 127.0.0.1:10129
+2021-05-29 17:18:20,564 INFO: Iniciando servidor en 127.0.0.1:19876
+2021-05-29 17:18:34,958 INFO: Inicio de conexión desde 127.0.0.1:22105
+2021-05-29 17:18:42,855 WARNING: Comando (helloiam) desde 127.0.0.1:22105
+2021-05-29 17:18:45,223 WARNING: Comando (msglen) desde 127.0.0.1:22105
+2021-05-29 17:18:53,097 WARNING: Comando (givememsg) desde 127.0.0.1:22105
+2021-05-29 17:22:28,551 WARNING: Comando (givememsg) desde 127.0.0.1:22105
+2021-05-29 17:23:57,467 WARNING: Comando (bye) desde 127.0.0.1:22105
+2021-05-29 17:23:57,482 INFO: Fin de conexión desde 127.0.0.1:22105
