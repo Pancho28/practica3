@@ -1,0 +1,7 @@
+Pasos para correr el programa:
+
+1.py 'pactica3.py'
+2.Se ingresa el usuario
+
+
+Nota: Se tuvo problemas con el firewall de windows, apagandolo se recupera el mensaje correctamente.
